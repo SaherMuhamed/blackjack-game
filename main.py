@@ -1,8 +1,7 @@
-import random
-import replit
 import art
+import random
 
-#Declared functions..
+# Declared functions
 def deal_card():
   """Returns a random cards from a deck."""
   cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
